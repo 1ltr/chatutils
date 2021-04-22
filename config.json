@@ -1,0 +1,15 @@
+{
+	"token": "token-here",
+	"ssl": false,
+	"listenip": "0.0.0.0",
+	"port": 8080,
+	"disablePings": false,
+	"logInvites":true,
+	"contactEmail":"insertContact@domain.tld",
+	"mods": [
+		{
+			"type": "role",
+			"value": "admin-role-id-here"
+		}
+]
+}

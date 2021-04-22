@@ -1,0 +1,72 @@
+{
+	"idBans": [
+		[
+			"demoID",
+			"demo stuff lol"
+		],
+		[
+			"236348",
+			"No reason specified"
+		],
+		[
+			"606039",
+			"No reason specified"
+		],
+		[
+			"654718",
+			"No reason specified"
+		],
+		[
+			"191095",
+			"No reason specified"
+		],
+		[
+			"283831",
+			"No reason specified"
+		],
+		[
+			"111251",
+			"No reason specified"
+		],
+		[
+			"192725",
+			"No reason specified"
+		],
+		[
+			"164519",
+			"No reason specified"
+		]
+	],
+	"ipBans": [
+		[
+			"127.0.0.57",
+			"No reason specified"
+		],
+		[
+			"35.191.9.209",
+			"No reason specified"
+		],
+		[
+			"35.191.12.193",
+			"No reason specified"
+		]
+	],
+	"vpnIsps": [
+		"DigitalOcean",
+		"Digital Energy",
+		"Dedipath"
+	],
+	"channel": "channel-id-here",
+	"webhooks": [
+		"webhook-1-url-here",
+		"webhook-2-url-here",
+		"webhook-3-url-here"
+	],
+	"logging": [
+		false,
+		"if-true-put-logging-channel-id-here"
+	],
+	"filters": [
+		"nigg"
+	]
+}
