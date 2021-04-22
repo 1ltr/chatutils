@@ -75,6 +75,16 @@ Congrats, you successfully setup Chatutils!
 
 3. Just wait a bit
 
+## Configuration:
+
+**Custom emojis:**
+
+1. Go to `/public/assets/emojis.js` 
+
+2. In the place you want your emoji put `['emoji_name','💻'], 
+
+3. The bottom one does not have a comma
+
 ## Discord ID:
 
 **Developer Mode:**
