@@ -59,9 +59,13 @@ A continuation of TN's chatutils, it is such a great project
 
 **Deploy to heroku:**
 
-19. Now go to https://heroku.com/deploy?template=your-github-url-here/tree/main and deploy to heroku
+19. Now go to https://heroku.com/deploy?template=your-github-url-here/tree/main
 
-Congrats, you successfully setup Chatutils.
+20. It will ask to connect to your github, follow the steps
+
+21. Now deploy
+
+Congrats, you successfully setup Chatutils!
 
 **If it is not working try:**
 
