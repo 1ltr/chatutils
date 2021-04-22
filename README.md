@@ -61,21 +61,21 @@ A continuation of TN's chatutils, it is such a great project
 
 19. Now go to https://heroku.com/deploy?template=your-github-url-here/tree/main and deploy to heroku
 
+Congrats, you successfully setup Chatutils.
+
 **If it is not working try:**
 
-1. In the chatutils channel say _setchannel
+1. In the chatutils channel say `_setchannel`
 
-2. In the chatutils channel say _setlogging
+2. In the chatutils channel say `_setlogging`
 
 3. Just wait a bit
-
-Congrats, you successfully setup Chatutils.
 
 ## Discord ID:
 
 **Developer Mode:**
 
-You need developer mode on to get the id
+You need developer mode on to get any id
 
 1. User Settings
 
