@@ -16,6 +16,8 @@ Env format https://github.com/Pers0n-dev/Basic-Auth/blob/main/app.json
 **UI:**
 Home icon, server icon, channel name, user ID
 
+**Invite generator**
+
 ### Setup:
 
 **Make private github:**
