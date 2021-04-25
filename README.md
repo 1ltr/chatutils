@@ -3,7 +3,7 @@ Alternative embeddable front-end for your Discord server
 
 This is a continuation of TN's chatutils, because it was such a great project
 
-It was made private so I made this, a continuation that other people can use and contribute to!
+It was made private so I made this, a continuation that other people can use and contribute too!
 
 ## Setup:
 
