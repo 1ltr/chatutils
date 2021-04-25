@@ -1,7 +1,9 @@
 # Chatutils
 Alternative embeddable front-end for your Discord server
 
-A continuation of TN's chatutils, it is such a great project
+This is a continuation of TN's chatutils, because it was such a great project
+
+It was made private so I made this, a continuation that other people can use and contribute to!
 
 ## Setup:
 
@@ -76,6 +78,24 @@ Congrats, you successfully setup Chatutils!
 3. Just wait a bit
 
 ## Configuration:
+
+**Bot Info:**
+
+Name and pfp:
+
+1. Visit the (Discord Developer Portal)[https://discord.com/developers/applications]
+
+2. Click the button labelled `Bot`
+
+3. The bot change the bot name and pfp
+
+Message:
+
+1. Go to `server.js`
+
+2. Click edit and go to line 432
+
+3. Edit  name:'Chatutils!'} to something whatever you want, ex: name:'Alternative embeddable front-end for your Discord server'}
 
 **Custom emojis:**
 
