@@ -77,34 +77,6 @@ Congrats, you successfully setup Chatutils!
 
 3. Just wait a bit
 
-## Configuration:
-
-**Bot Info:**
-
-Name and pfp:
-
-1. Visit the (Discord Developer Portal)[https://discord.com/developers/applications]
-
-2. Click the button labelled `Bot`
-
-3. The bot change the bot name and pfp
-
-Message:
-
-1. Go to `server.js`
-
-2. Click edit and go to line 432
-
-3. Edit  name:'Chatutils!'} to something whatever you want, ex: name:'Alternative embeddable front-end for your Discord server'}
-
-**Custom emojis:**
-
-1. Go to `/public/assets/emojis.js` 
-
-2. In the place you want your emoji put `['emoji_name','💻'], 
-
-3. The bottom one does not have a comma
-
 ## Discord ID:
 
 **Developer Mode:**
@@ -132,3 +104,31 @@ You need developer mode on to get any id
 3. Right click on role
 
 4. Press Copy ID
+
+## Configuration:
+
+**Bot Info:**
+
+Name and picture:
+
+1. Visit the (Discord Developer Portal)[https://discord.com/developers/applications]
+
+2. Click the button labelled `Bot`
+
+3. Change the bot name and picture to whatever you like
+
+Playing Message:
+
+1. Go to `server.js`
+
+2. Click edit and go to line 432
+
+3. Edit  name:'Chatutils!'} to something whatever you want, ex: name:'Alternative embeddable front-end for your Discord server'}
+
+**Custom emojis:**
+
+1. Go to `/public/assets/emojis.js` 
+
+2. In the place you want your emoji put `['emoji_name','💻'], 
+
+3. The bottom emoji does not have a comma
