@@ -5,6 +5,17 @@ This is a continuation of TN's chatutils, because it was such a great project
 
 It was made private so I made this, a continuation that other people can use and contribute too!
 
+## To Do:
+
+**ENV:**
+Use env in deploy for putting in values insted of making new gitub
+Env format https://github.com/Pers0n-dev/Basic-Auth/blob/main/app.json
+
+**Multiple Channels**
+
+**UI:**
+Home icon, server icon, channel name, user ID
+
 ## Setup:
 
 **Make private github:**
