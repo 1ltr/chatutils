@@ -140,15 +140,15 @@ Playing Message:
 
 1. Go to `/public/assets/emojis.js` 
 
-2. In the place you want your emoji put `['emoji_name','💻'], 
+2. In the place you want your emoji put `['emoji_name','💻'],`
 
-3. The bottom emoji does not have a comma
+3. The bottom emoji does not have a `,`
 
 ### Credits:
 
 **TN:** 
 
-Everyone here
+Everyone there
 
 **Divide**
 
