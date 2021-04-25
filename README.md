@@ -16,7 +16,7 @@ Env format https://github.com/Pers0n-dev/Basic-Auth/blob/main/app.json
 **UI:**
 Home icon, server icon, channel name, user ID
 
-## Setup:
+### Setup:
 
 **Make private github:**
 
@@ -143,3 +143,15 @@ Playing Message:
 2. In the place you want your emoji put `['emoji_name','💻'], 
 
 3. The bottom emoji does not have a comma
+
+### Credits:
+
+**TN:** 
+
+Everyone here
+
+**Divide**
+
+**Pers0n-dev**
+
+**EnderKingJ**
