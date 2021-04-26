@@ -5,6 +5,8 @@ This is a continuation of TN's chatutils, because it was such a great project
 
 It was made private so I made this, a continuation that other people can use and contribute too!
 
+Join our discord: https://discord.gg/xqtqzNZhVj
+
 ![screenshot](https://github.com/Monstars-dev/Chatutils/blob/main/chatutilsscreenshot.png?raw=true)
 
 ## To Do:
