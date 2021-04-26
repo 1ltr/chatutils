@@ -14,7 +14,7 @@ Env format https://github.com/Pers0n-dev/Basic-Auth/blob/main/app.json
 **Multiple Channels**
 
 **UI:**
-Home icon, server icon, channel name, user ID
+channel name, user ID
 
 **Invite generator**
 
