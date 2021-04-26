@@ -136,7 +136,7 @@ Playing Message:
 
 2. Click edit and go to line 432
 
-3. Edit  name:'Chatutils!'} to something whatever you want, ex: name:'Alternative embeddable front-end for your Discord server'}
+3. Edit  name:'Alternative embeddable front-end...'} to something whatever you want, ex: name:'Chatutils!'}
 
 **Custom emojis:**
 
