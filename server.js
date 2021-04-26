@@ -306,7 +306,7 @@ IP: ${ip} - Banned: ${banned}`)};
 					color:'#fff',
 					avatar:avatarURL,
 					authorID:id,
-					name:id+': '+cleanString(userData[1]),
+					name:cleanString(userData[1])+' #'+id,
 					timestamp:Date.now(),
 					content:cleanString(data.content),
 					id: Math.floor(Math.random() * 100000),
@@ -327,7 +327,7 @@ IP: ${ip} - Banned: ${banned}`)};
 				activeC[id].data.msgs++;
 				activeC[id].data.name=cleanString(userData[1]);
 				fetch(url,{method:'POST',body: JSON.stringify({
-					'username': id+': '+cleanString(userData[1]),
+					'username': cleanString(userData[1])+' #'+id,
 					'content': cleanString(data.content),
 					'avatar_url': avatarURL
 				}),headers: {'Content-Type': 'application/json'} });
