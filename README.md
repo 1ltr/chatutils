@@ -58,27 +58,29 @@ channel name, user ID
 
 13. Go to integrations, webhooks and create 3 webhooks. Copy the webhook urls and paste them into the 3 places for webhooks
 
-**Discord Invite:**
+**Discord:**
 
 14. Now go to `/public/index.html` and go to line 26 and put a permanent discord invite there
 
+15. Now delete `/public/assets/logo.png` and upload your serer's logo
+
 **Application ID:**
 
-15. Save and go back to the (Discord Developer Portal)[https://discord.com/developers/applications] page and go to your bots `General Information` tab and and under the `APPLICATION ID` text it will show a series of numbers (eg. 923819283912931299)
+16. Save and go back to the (Discord Developer Portal)[https://discord.com/developers/applications] page and go to your bots `General Information` tab and and under the `APPLICATION ID` text it will show a series of numbers (eg. 923819283912931299)
 
-16. Once you have located this, press the blue `Copy` button below it
+17. Once you have located this, press the blue `Copy` button below it
 
-17. Visit the [invite URL generator](https://pers0n-dev.github.io/Chatutils-invite-generator) for chatutils then paste from your clipboard your APPLICATION ID that you had just now copied into the input box that says `Application ID` then press `OK`
+18. Visit the [invite URL generator](https://pers0n-dev.github.io/Chatutils-invite-generator) for chatutils then paste from your clipboard your APPLICATION ID that you had just now copied into the input box that says `Application ID` then press `OK`
 
-18. A new link should have appeared on your screen if all was done correctly, click on this link and choose a server to invite your bot to
+19. A new link should have appeared on your screen if all was done correctly, click on this link and choose a server to invite your bot to
 
 **Deploy to heroku:**
 
-19. Now go to https://heroku.com/deploy?template=your-github-url-here/tree/main
+20. Now go to https://heroku.com/deploy?template=your-github-url-here/tree/main
 
-20. It will ask to connect to your github, follow the steps
+21. It will ask to connect to your github, follow the steps
 
-21. Now deploy
+22. Now deploy
 
 Congrats, you successfully setup Chatutils!
 
@@ -118,7 +120,11 @@ You need developer mode on to get any id
 
 4. Press Copy ID
 
-## Configuration:
+### Commands:
+
+_say message (ex: _say hello world!)
+
+### Configuration:
 
 **Bot Info:**
 
@@ -138,7 +144,7 @@ Playing Message:
 
 3. Edit  name:'Alternative embeddable front-end...'} to something whatever you want, ex: name:'Chatutils!'}
 
-**Custom emojis:**
+**Custom Emojis:**
 
 1. Go to `/public/assets/emojis.js` 
 
