@@ -429,7 +429,7 @@ var msgHandle=((e,i,a)=>{
 
 bot.on('ready',async()=>{
 	reloadConfig();
-	bot.user.setPresence({ activity: {type:'PLAYING',name:'Chatutils!'},status:'idle'}).catch(err => console.log(err));
+	bot.user.setPresence({ activity: {type:'PLAYING',name:'Alternative embeddable front-end for your Discord server'},status:'idle'}).catch(err => console.log(err));
 	primaryChannel=await bot.channels.fetch(dynamicData.channel);
 	var messages=await primaryChannel.messages.fetch({limit: 50});
 	
