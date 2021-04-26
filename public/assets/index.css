@@ -999,12 +999,13 @@ pre {
   padding-right: 5px;
   opacity: 1;
   background-color: #30363D;
-  border: 0.4px inset rgb(92, 92, 92);
-  border-radius: 3px;
+  border: 1px solid rgb(92, 92, 92);
+  border-radius: 4px;
 }
 .discordbutton:hover {
   background-color: rgb(71, 71, 71);
-  border: 1px inset rgb(99, 99, 99)
+  border: 1px inset rgb(99, 99, 99);
+  cursor: pointer;
 }
 p {
   font-size: 10px;
