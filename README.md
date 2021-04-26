@@ -18,6 +18,9 @@ Home icon, server icon, channel name, user ID
 
 **Invite generator**
 
+**Format:**
+Change from ID: Username to Username #ID
+
 ### Setup:
 
 **Make private github:**
