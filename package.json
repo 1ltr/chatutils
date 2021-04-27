@@ -5,10 +5,10 @@
 	"main": "app.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Monstars-dev/Chatutils.git"
+		"url": "https://github.com/Chatutils/Chatutils.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Monstars-dev/Chatutils/issues"
+		"url": "https://github.com/Chatutils/Chatutils/issues"
 	},
 	"keywords": [
 		"chatutils", "discord", "internet", "chat" 
@@ -19,7 +19,7 @@
 		"start": "node app.js",
 		"dev": "node app.js dev"
 	},
-	"homepage": "https://github.com/Monstars-dev/Chatutils/",
+	"homepage": "https://github.com/Chatutils/Chatutils/",
 	"dependencies": {
 		"body-parser": "^1.19.0",
 		"colors": "^1.4.0",
