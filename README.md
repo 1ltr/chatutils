@@ -7,7 +7,7 @@ It was made private so I made this, a continuation that other people can use and
 
 Join our discord: https://discord.gg/xqtqzNZhVj
 
-![screenshot](https://github.com/Monstars-dev/Chatutils/blob/main/chatutilsscreenshot.png?raw=true)
+![screenshot](https://github.com/Chatutils/Chatutils/blob/main/chatutilsscreenshot.png?raw=true)
 
 ## To Do:
 
