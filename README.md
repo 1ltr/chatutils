@@ -11,14 +11,12 @@ Join our discord: https://discord.gg/xqtqzNZhVj
 
 ## To Do:
 
-**ENV:**
-Use env in deploy for putting in values insted of making new gitub
-Env format https://github.com/Pers0n-dev/Basic-Auth/blob/main/app.json
-
 **Multiple Channels**
 
 **UI:**
 channel name, user ID
+
+**Easy Setup**
 
 **Invite generator**
 
@@ -26,7 +24,7 @@ channel name, user ID
 
 **Make private github:**
 
-1. Download the (Github repo)[https://github.com/Monsters-dev/Chatutils/archive/master.zip]
+1. Download the (Github repo)[https://github.com/Chatutils/Chatutils/archive/master.zip]
 
 2. Create a **private** github repository and manually add the files you downloaded
 
@@ -124,7 +122,7 @@ You need developer mode on to get any id
 
 4. Press Copy ID
 
-### Commands:
+### Bot Commands:
 
 _say message (ex: _say hello world!)
 
@@ -158,13 +156,13 @@ Playing Message:
 
 **Automatically Deploy:**
 
-This is very useful if your a dev
+This is very useful if your a dev who updates regularly
 
 1. Go to `https://dashboard.heroku.com/apps/your-app-name/deploy/github`
 
 2. Search for your app
 
-3. Connect the rigth one
+3. Connect the right one
 
 4. Click `Enable Automatic Deploys`
 
