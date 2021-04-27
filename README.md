@@ -158,7 +158,7 @@ Playing Message:
 
 ### Credits:
 
-**Everyone at TN:** 
+**Everyone at TN** 
 
 **Divide**
 
