@@ -1,4 +1,4 @@
-console.log('>>>  Know what you\'re doing here? Consider contributing on our github at https://github.com/Monstars-dev/Chatutils');
+console.log('>>>  Know what you\'re doing here? Consider contributing on our github at https://github.com/Chatutils/Chatutils');
 
 var msgForm=document.getElementById('msgForm'),
 	msgInput=document.getElementById('msgInput'),
