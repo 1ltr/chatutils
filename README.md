@@ -156,6 +156,18 @@ Playing Message:
 
 3. The bottom emoji does not have a `,`
 
+**Automatically Deploy:**
+
+This is very useful if your a dev
+
+1. Go to `https://dashboard.heroku.com/apps/your-app-name/deploy/github`
+
+2. Search for your app
+
+3. Connect the rigth one
+
+4. Click `Enable Automatic Deploys`
+
 ### Credits:
 
 **Everyone at TN** 
