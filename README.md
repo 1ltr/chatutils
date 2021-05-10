@@ -11,14 +11,7 @@ Join our discord: https://discord.gg/xqtqzNZhVj
 
 ## To Do:
 
-**Multiple Channels**
-
-**UI:**
-channel name, user ID
-
-**Easy Setup**
-
-**Invite generator**
+https://github.com/orgs/Chatutils/projects/1
 
 ### Setup:
 
