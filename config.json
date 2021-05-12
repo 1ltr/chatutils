@@ -1,5 +1,5 @@
 {
-	"token": "token-here",
+	"token": "ODQyMDc5NTU2NTYzMTA3ODgw.YJwFsw.F2-fr1jGs-cdwDvsiRsjo61KLrs",
 	"ssl": false,
 	"listenip": "0.0.0.0",
 	"port": 8080,
@@ -9,7 +9,7 @@
 	"mods": [
 		{
 			"type": "role",
-			"value": "admin-role-id-here"
+			"value": "839901695076073524"
 		}
 ]
 }
