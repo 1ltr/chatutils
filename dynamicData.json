@@ -56,11 +56,11 @@
 		"Digital Energy",
 		"Dedipath"
 	],
-	"channel": "channel-id-here",
+	"channel": "842079005376118854",
 	"webhooks": [
-		"webhook-1-url-here",
-		"webhook-2-url-here",
-		"webhook-3-url-here"
+		"https://discord.com/api/webhooks/842084670446895114/mX5KapBshjCHx1s9MVJEQD3yX66-eR4hmRSwbpg8fNMz9FKmIuju30VD1YKEdteoWq6T",
+		"https://discord.com/api/webhooks/842084697680904192/gt-Gu4LD4wz4uvB-HJBQhhm_LtJ66x-79Jy_ksvHbBb8fyGpBz16_AwX2ufT-VjR5h7u",
+		"https://discord.com/api/webhooks/842084703279251518/84S1xOo1NNiMdPUbHrN3cDl2A_IufhAyPE44Xn-7RoMxRUlU85IlTZtukEZuckTeDIDp"
 	],
 	"logging": [
 		false,
